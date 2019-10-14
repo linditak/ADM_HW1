@@ -1,5 +1,4 @@
-# Algorithmic Methods of Data Mining
-### Homework 1
+## Algorithmic Methods of Data Mining - Homework 1
 
 Please find in this repository the following files:
 1. `README.md`: a Markdown file that explains the content of the repository
